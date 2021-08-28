@@ -1,0 +1,6 @@
+|Model          |CPU                           |RAM   |Primary camera |Screen-size|Price   |Color          |Brand                              |
+|SS3122         |Exynos 2100                   |12 GB |108 MP         |6.80       |1.000  $|Den tuyen      |Samsung Galaxy S21 Ultra 5G 128GB  |
+|IP2111         |Apple A13 Bionic              |4 GB  |12 MP          |6.10       |614.000$|Tim            |iPhone 11 64GB                     |
+|IP1111         |Apple A14 Bionic              |6 GB  |12 MP          |6.70       |1.320  $|Xanh duong     |iPhone 12 Pro Max 128GB            |
+|IP0811         |poo                           |6 GB  |7 MP           |9.00       |3.000  $|den            |�dsa                               |
+|IA1111         |657 hakdja                    |12 GB |12 MP          |7.50       |8.000  $|--11           |samsung                            |
