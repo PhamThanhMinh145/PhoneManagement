@@ -18,7 +18,9 @@
 
 - 4. Print the phone list in the descending order of Model
 
-- 5. Quit
+- 5. Store to file "phone.txt"
+
+- 6. Exit
 
 <p>Eachphone has the following information: model (cannot be modified, cannot be duplicated), CPU, RAM, primary camera,screen-size, price, color, brand.</p>
 
