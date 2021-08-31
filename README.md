@@ -22,4 +22,4 @@
 
 <p>Eachphone has the following information: model (cannot be modified, cannot be duplicated), CPU, RAM, primary camera,screen-size, price, color, brand.</p>
 
-###Ask for me [Gmail](thanhminh1452000@gmail.com) or [Facebook](https://www.facebook.com/thanhmin145/)
+Ask for me **thanhminh1452000@gmail.com** or [Facebook](https://www.facebook.com/thanhmin145/)
